@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+h1{
+    color: yellow;
+    background-color: green;
+    text-align: center;
+}
+#container {
+    color : red;
+    border-top : 1px solid white;
+    border-bottom: 1px solid white;
+    font-size: larger;
+    font-style: italic;
+    text-align: left;
+    
+}
+
+#container p {
+    text-align: center !important;
+}
+#content {
+    color: green;
+    font-size: larger;
+}
+ol {
+    color :yellow
+}
+.author{
+    color :blue;
+}
