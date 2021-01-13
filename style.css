@@ -1,31 +1,41 @@
-body{
-    background-color: black;
-}
 h1{
-    color: yellow;
-    background-color: green;
+    color:black;
     text-align: center;
 }
-#container {
-    color : red;
-    border-top : 1px solid white;
-    border-bottom: 1px solid white;
-    font-size: larger;
-    font-style: italic;
-    text-align: left;
-    
+body {
+     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF2zpl_lHrIZwVIopF-1YVSedZ9B-fQQOXVw&usqp=CAU");
+     background-repeat: no-repeat;
+     background-size: cover;
+     
 }
 
-#container p {
-    text-align: center !important;
+#image1 {
+    margin-top: 50px;
+    margin-left: 200px;
+    border: 3px dotted darkblue;
+    border-radius: 50px;
 }
-#content {
-    color: green;
-    font-size: larger;
+#image2 {
+    margin-top: 50px;
+    margin-left: 200px;
+    border: 3px dotted darkblue;
+    border-radius: 50px;
 }
-ol {
-    color :yellow
+#image3 {
+    margin-top: 50px;
+    margin-left: 200px;
+    border: 3px dotted darkblue;
+    border-radius: 50px;
 }
-.author{
-    color :blue;
+#image4 {
+    margin-top: 50px;
+    margin-left: 200px;
+    border: 3px dotted darkblue;
+    border-radius: 50px;
+}
+#image5 {
+  
+    margin-left: 480px;
+    border: 3px dotted darkblue;
+    border-radius: 50px;
 }
