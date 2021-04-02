@@ -1,41 +1,32 @@
-h1{
-    color:black;
+body{
+    background-color: rgb(105, 5, 5);
+}
+header{
+    color: whitesmoke;
     text-align: center;
 }
-body {
-     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF2zpl_lHrIZwVIopF-1YVSedZ9B-fQQOXVw&usqp=CAU");
-     background-repeat: no-repeat;
-     background-size: cover;
-     
+
+.table-container{
+    width: 90%;
+    height: 2000px;
+    background-color: rgb(245, 245, 145);
+    margin: auto;
+}
+tbody tr td{
+    border: 0.5px solid gray;
+
+}
+.col1{
+    width: 10%;
+
+
+}
+.col2{
+    width: 100%
+}
+table{
+    margin: 0;
+    padding: 0;
+    width: 100%;
 }
 
-#image1 {
-    margin-top: 50px;
-    margin-left: 200px;
-    border: 3px dotted darkblue;
-    border-radius: 50px;
-}
-#image2 {
-    margin-top: 50px;
-    margin-left: 200px;
-    border: 3px dotted darkblue;
-    border-radius: 50px;
-}
-#image3 {
-    margin-top: 50px;
-    margin-left: 200px;
-    border: 3px dotted darkblue;
-    border-radius: 50px;
-}
-#image4 {
-    margin-top: 50px;
-    margin-left: 200px;
-    border: 3px dotted darkblue;
-    border-radius: 50px;
-}
-#image5 {
-  
-    margin-left: 480px;
-    border: 3px dotted darkblue;
-    border-radius: 50px;
-}
